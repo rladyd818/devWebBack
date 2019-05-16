@@ -8,5 +8,5 @@ router.get('/', function(req, res, next) {
   res.render('index', { title: 'Express' });
 });
 */
-
+var name = 1;
 module.exports = router;
